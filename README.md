@@ -41,8 +41,6 @@
   </circle>
   
   <!-- 文字：最核心的法印 -->
-  <text x="400" y="750" fill="#444" font-size="14" text-anchor="middle">真空 · 无我 · 自动执行</text>
+  <text x="400" y="750" fill="#444" font-size="14" text-anchor="middle">Zero Ring · 真空之根</text>
   
 </svg>
-=============================================
-
